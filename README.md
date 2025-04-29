@@ -1,10 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Maven-Soul&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<h2 align="left">Hi 👋! My name is Ilya and I'm a Web-Developer</h2>
 
 ###
 
