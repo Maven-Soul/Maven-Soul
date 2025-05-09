@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="193" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="193" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN1OGUyOGF3eDR5bXJ6cTV6bnpibjVkajQ1MGhhOTIwYXF3b3ZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUMPtUlVJD1JqCElAY/giphy.gif"  />
 
 ###
 
@@ -33,8 +33,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+<!--   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /> -->
 </div>
 
 ###
