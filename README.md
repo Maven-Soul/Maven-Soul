@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="193" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21mZzczOWIwN3hjNDMwbm84MnF5ODAyZGNyazN5NTMwYmxuc2gxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BkUhrt1L9zmhO/giphy.gif"  />
+<img align="left" height="193" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21mZzczOWIwN3hjNDMwbm84MnF5ODAyZGNyazN5NTMwYmxuc2gxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BkUhrt1L9zmhO/giphy.gif"  />
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
